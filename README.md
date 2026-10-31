@@ -1,4 +1,4 @@
-# QuizMaster – Online Examination Portal
+ # QuizMaster – Online Examination Portal
 
 QuizMaster is a web-based Online Examination Portal developed using Java, JSP, Servlets and MySQL. It allows students to register, log in, attend online quizzes, view results and access study materials.
 
@@ -28,28 +28,29 @@ QuizMaster is a web-based Online Examination Portal developed using Java, JSP, S
 | Build Tool | Maven |
 | IDE | IntelliJ IDEA |
 | Version Control | Git and GitHub |
+
 ## Application Screenshots
 
 ### Homepage
 ![Homepage](screenshots/homepage.png)
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/loginpage.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admindashboard.png)
 
 ### AI Assistant
-![AI Assistant](screenshots/ai-assistant.png)
+![AI Assistant](screenshots/aiassistent.png)
 
 ### Create Quiz
-![Create Quiz](screenshots/create-quiz.png)
+![Create Quiz](screenshots/createquiz.png)
 
 ### Examination Portal
-![Examination Portal](screenshots/examination-portal.png)
+![Examination Portal](screenshots/examinationportal.png)
 
 ### Exam Instructions
-![Exam Instructions](screenshots/exam-instructions.png)
+![Exam Instructions](screenshots/examinstructions.png)
 
 ### Results
 ![Results](screenshots/results.png)
@@ -67,6 +68,7 @@ QuizMaster/
 │           ├── js/
 │           ├── images/
 │           └── JSP pages
+├── screenshots/
 ├── pom.xml
 ├── .gitignore
 └── README.md
@@ -81,19 +83,12 @@ git clone https://github.com/CHITTIMALLA-MYTHILI/QuizMaster.git
 ```
 
 2. Open the project in IntelliJ IDEA.
-
-3. Configure JDK and Maven.
-
+3. Configure JDK 17 and Maven.
 4. Install MySQL and create the required database.
-
 5. Execute the project's SQL database script.
-
-6. Configure database connection details.
-
+6. Configure your database connection details.
 7. Configure Apache Tomcat.
-
 8. Build and deploy the project.
-
 9. Open the application in your browser.
 
 ```text
