@@ -28,6 +28,31 @@ QuizMaster is a web-based Online Examination Portal developed using Java, JSP, S
 | Build Tool | Maven |
 | IDE | IntelliJ IDEA |
 | Version Control | Git and GitHub |
+## Application Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### AI Assistant
+![AI Assistant](screenshots/ai-assistant.png)
+
+### Create Quiz
+![Create Quiz](screenshots/create-quiz.png)
+
+### Examination Portal
+![Examination Portal](screenshots/examination-portal.png)
+
+### Exam Instructions
+![Exam Instructions](screenshots/exam-instructions.png)
+
+### Results
+![Results](screenshots/results.png)
 
 ## Project Structure
 
